@@ -2,7 +2,7 @@
 
 An interactive, browser-based fish tank simulation where fish evolve over time through natural selection, predation, and genetic inheritance — built with [p5.js](https://p5js.org/).
 
-🔗 **[Live Demo on GitHub Pages](https://utkuefaayan.github.io/Evolutionary-Fish-Tank/)**
+🔗 **[Live Demo on GitHub Pages](https://UtkuEfeAyan.github.io/Evolutionary-Fish-Tank/)**
 
 ---
 
@@ -67,7 +67,7 @@ Evolutionary-Fish-Tank/
 │       ├── tankbackground.js   # Tank background rendering
 │       ├── sidepanel.js        # Selected-fish stats panel
 │       ├── almanac.js          # Fish history almanac
-│       └── feeder.js           # Food / feeding logic
+│       └── feeder.js           # Draggable food-dispenser widget that drops plankton into the tank
 └── assets/
     ├── fish.json               # Starting fish data
     ├── fishnames.json          # Random fish name pool
